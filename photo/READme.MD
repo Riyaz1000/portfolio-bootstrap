@@ -1,1 +1,7 @@
-###### BOOTTRAP
+###### BOOTSTRAP PORTFOLIO
+
+#### MIT - LINCENSED
+
+#### AUTHOR
+     -RIYAZ
+    
