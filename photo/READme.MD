@@ -1,7 +1,0 @@
-###### BOOTSTRAP PORTFOLIO
-
-#### MIT - LINCENSED
-
-#### AUTHOR
-     -RIYAZ
-    
